@@ -1,0 +1,106 @@
+{
+  "update_time": "2026-05-15 16:30:12",
+  "total_tested": 74,
+  "top_20": [
+    {
+      "ip": "162.159.46.22",
+      "latency_ms": 66.0,
+      "speed_mb": null
+    },
+    {
+      "ip": "173.245.59.12",
+      "latency_ms": 67.5,
+      "speed_mb": null
+    },
+    {
+      "ip": "162.159.19.122",
+      "latency_ms": 75.0,
+      "speed_mb": null
+    },
+    {
+      "ip": "162.159.43.110",
+      "latency_ms": 75.5,
+      "speed_mb": null
+    },
+    {
+      "ip": "162.159.40.231",
+      "latency_ms": 90.5,
+      "speed_mb": null
+    },
+    {
+      "ip": "198.41.222.247",
+      "latency_ms": 92.4,
+      "speed_mb": null
+    },
+    {
+      "ip": "162.159.4.241",
+      "latency_ms": 93.7,
+      "speed_mb": null
+    },
+    {
+      "ip": "198.41.222.121",
+      "latency_ms": 93.8,
+      "speed_mb": null
+    },
+    {
+      "ip": "198.41.223.90",
+      "latency_ms": 95.4,
+      "speed_mb": null
+    },
+    {
+      "ip": "173.245.59.240",
+      "latency_ms": 97.0,
+      "speed_mb": null
+    },
+    {
+      "ip": "162.159.4.83",
+      "latency_ms": 97.2,
+      "speed_mb": null
+    },
+    {
+      "ip": "104.18.190.196",
+      "latency_ms": 156.5,
+      "speed_mb": null
+    },
+    {
+      "ip": "141.101.122.228",
+      "latency_ms": 162.2,
+      "speed_mb": null
+    },
+    {
+      "ip": "104.19.253.126",
+      "latency_ms": 162.7,
+      "speed_mb": null
+    },
+    {
+      "ip": "141.101.114.53",
+      "latency_ms": 170.6,
+      "speed_mb": null
+    },
+    {
+      "ip": "104.18.188.138",
+      "latency_ms": 170.6,
+      "speed_mb": null
+    },
+    {
+      "ip": "104.19.177.226",
+      "latency_ms": 172.2,
+      "speed_mb": null
+    },
+    {
+      "ip": "104.17.164.63",
+      "latency_ms": 172.6,
+      "speed_mb": null
+    },
+    {
+      "ip": "173.245.49.252",
+      "latency_ms": 172.8,
+      "speed_mb": null
+    },
+    {
+      "ip": "190.93.247.145",
+      "latency_ms": 172.9,
+      "speed_mb": null
+    }
+  ]
+}
