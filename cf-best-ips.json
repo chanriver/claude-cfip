@@ -1,117 +1,67 @@
 {
   "version": "1.1",
-  "update_time": "2026-08-11 10:49:09",
-  "total_tested": 481,
+  "update_time": "2026-08-11 10:59:09",
+  "total_tested": 455,
   "top_10": [
     {
-      "ip": "162.159.13.206",
-      "latency_ms": 56.0,
-      "speed_mb": 0.1,
-      "geo": {
-        "country": "Canada",
-        "country_code": "CA",
-        "region": "Ontario",
-        "city": "Toronto"
-      }
-    },
-    {
-      "ip": "162.159.44.8",
-      "latency_ms": 60.5,
+      "ip": "172.64.155.84",
+      "latency_ms": 55.3,
       "speed_mb": 0.3,
-      "geo": {
-        "country": "United States",
-        "country_code": "US",
-        "region": "Virginia",
-        "city": "Ashburn"
-      }
+      "geo": null
     },
     {
-      "ip": "162.159.32.132",
-      "latency_ms": 67.1,
+      "ip": "108.162.198.237",
+      "latency_ms": 59.0,
+      "speed_mb": 0.2,
+      "geo": null
+    },
+    {
+      "ip": "173.245.58.80",
+      "latency_ms": 62.4,
+      "speed_mb": 0.4,
+      "geo": null
+    },
+    {
+      "ip": "172.64.152.165",
+      "latency_ms": 62.5,
+      "speed_mb": 0.2,
+      "geo": null
+    },
+    {
+      "ip": "108.162.195.92",
+      "latency_ms": 65.7,
       "speed_mb": 0.5,
-      "geo": {
-        "country": "Canada",
-        "country_code": "CA",
-        "region": "Ontario",
-        "city": "Toronto"
-      }
+      "geo": null
     },
     {
-      "ip": "162.159.35.127",
-      "latency_ms": 68.6,
-      "speed_mb": 0.6,
-      "geo": {
-        "country": "Canada",
-        "country_code": "CA",
-        "region": "Ontario",
-        "city": "Toronto"
-      }
+      "ip": "162.159.3.184",
+      "latency_ms": 66.1,
+      "speed_mb": 0.2,
+      "geo": null
     },
     {
-      "ip": "108.162.193.46",
-      "latency_ms": 70.1,
-      "speed_mb": 0.6,
-      "geo": {
-        "country": "Canada",
-        "country_code": "CA",
-        "region": "Ontario",
-        "city": "Toronto"
-      }
-    },
-    {
-      "ip": "162.159.58.60",
-      "latency_ms": 70.8,
-      "speed_mb": 0.4,
-      "geo": {
-        "country": "Canada",
-        "country_code": "CA",
-        "region": "Ontario",
-        "city": "Toronto"
-      }
-    },
-    {
-      "ip": "172.64.228.176",
-      "latency_ms": 71.2,
+      "ip": "162.159.20.149",
+      "latency_ms": 66.3,
       "speed_mb": 0.3,
-      "geo": {
-        "country": "Canada",
-        "country_code": "CA",
-        "region": "Ontario",
-        "city": "Toronto"
-      }
+      "geo": null
     },
     {
-      "ip": "162.159.23.191",
-      "latency_ms": 72.4,
+      "ip": "162.159.39.124",
+      "latency_ms": 67.2,
+      "speed_mb": 0.2,
+      "geo": null
+    },
+    {
+      "ip": "162.159.18.227",
+      "latency_ms": 68.2,
       "speed_mb": 0.4,
-      "geo": {
-        "country": "Canada",
-        "country_code": "CA",
-        "region": "Ontario",
-        "city": "Toronto"
-      }
+      "geo": null
     },
     {
-      "ip": "162.159.24.71",
-      "latency_ms": 72.9,
-      "speed_mb": 0.3,
-      "geo": {
-        "country": "Canada",
-        "country_code": "CA",
-        "region": "Ontario",
-        "city": "Toronto"
-      }
-    },
-    {
-      "ip": "162.159.13.159",
-      "latency_ms": 73.9,
-      "speed_mb": 0.6,
-      "geo": {
-        "country": "Canada",
-        "country_code": "CA",
-        "region": "Ontario",
-        "city": "Toronto"
-      }
+      "ip": "162.159.42.17",
+      "latency_ms": 68.5,
+      "speed_mb": 0.4,
+      "geo": null
     }
   ]
 }
