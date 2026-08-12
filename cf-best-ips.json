@@ -1,66 +1,66 @@
 {
   "version": "1.1",
-  "update_time": "2026-08-11 10:59:09",
-  "total_tested": 455,
+  "update_time": "2026-08-12 09:01:55",
+  "total_tested": 416,
   "top_10": [
     {
-      "ip": "172.64.155.84",
-      "latency_ms": 55.3,
-      "speed_mb": 0.3,
-      "geo": null
-    },
-    {
-      "ip": "108.162.198.237",
-      "latency_ms": 59.0,
-      "speed_mb": 0.2,
-      "geo": null
-    },
-    {
-      "ip": "173.245.58.80",
-      "latency_ms": 62.4,
+      "ip": "162.159.22.52",
+      "latency_ms": 57.0,
       "speed_mb": 0.4,
       "geo": null
     },
     {
-      "ip": "172.64.152.165",
-      "latency_ms": 62.5,
-      "speed_mb": 0.2,
-      "geo": null
-    },
-    {
-      "ip": "108.162.195.92",
-      "latency_ms": 65.7,
+      "ip": "162.159.38.155",
+      "latency_ms": 60.0,
       "speed_mb": 0.5,
       "geo": null
     },
     {
-      "ip": "162.159.3.184",
-      "latency_ms": 66.1,
-      "speed_mb": 0.2,
-      "geo": null
-    },
-    {
-      "ip": "162.159.20.149",
-      "latency_ms": 66.3,
+      "ip": "108.162.198.61",
+      "latency_ms": 62.1,
       "speed_mb": 0.3,
       "geo": null
     },
     {
-      "ip": "162.159.39.124",
-      "latency_ms": 67.2,
+      "ip": "162.159.39.160",
+      "latency_ms": 63.7,
+      "speed_mb": 0.5,
+      "geo": null
+    },
+    {
+      "ip": "162.159.35.3",
+      "latency_ms": 64.5,
+      "speed_mb": 0.6,
+      "geo": null
+    },
+    {
+      "ip": "172.64.38.0",
+      "latency_ms": 65.2,
+      "speed_mb": 0.6,
+      "geo": null
+    },
+    {
+      "ip": "172.64.153.70",
+      "latency_ms": 67.5,
+      "speed_mb": 0.5,
+      "geo": null
+    },
+    {
+      "ip": "172.64.159.47",
+      "latency_ms": 70.5,
+      "speed_mb": 0.5,
+      "geo": null
+    },
+    {
+      "ip": "108.162.194.36",
+      "latency_ms": 76.0,
       "speed_mb": 0.2,
       "geo": null
     },
     {
-      "ip": "162.159.18.227",
-      "latency_ms": 68.2,
-      "speed_mb": 0.4,
-      "geo": null
-    },
-    {
-      "ip": "162.159.42.17",
-      "latency_ms": 68.5,
-      "speed_mb": 0.4,
+      "ip": "104.18.33.253",
+      "latency_ms": 77.2,
+      "speed_mb": 0.5,
       "geo": null
     }
   ]
